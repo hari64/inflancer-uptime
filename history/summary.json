@@ -34,7 +34,7 @@
     "timeMonth": 137,
     "timeYear": 137,
     "dailyMinutesDown": {
-      "2025-02-05": 13
+      "2025-02-05": 32
     }
   },
   {
@@ -60,12 +60,12 @@
     "url": "https://nayahardware.com",
     "icon": "https://icons.duckduckgo.com/ip3/nayahardware.com.ico",
     "slug": "nayahardware",
-    "status": "up",
-    "uptime": "42.60%",
-    "uptimeDay": "42.60%",
-    "uptimeWeek": "42.60%",
-    "uptimeMonth": "42.60%",
-    "uptimeYear": "42.60%",
+    "status": "down",
+    "uptime": "53.09%",
+    "uptimeDay": "53.09%",
+    "uptimeWeek": "53.09%",
+    "uptimeMonth": "53.09%",
+    "uptimeYear": "53.09%",
     "time": 1573,
     "timeDay": 1573,
     "timeWeek": 1573,
