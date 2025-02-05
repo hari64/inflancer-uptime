@@ -9,7 +9,7 @@ sites:
   - name: Meroaspatal API endpoint
     url: https://meroaspatal.com/api
     headers:
-      - "Api-Key:lDMdVcSSqH1eDVSayUnTBr8dluEkJ2Kpzq2YLO"
+      - "Api-Key: lDMdVcSSqH1eDVSayUnTBr8dluEkJ2Kpzq2YLO"
       - "Content-Type: application/json"
   - name: Surugara
     url: https://beta.surugara.com/api
@@ -19,7 +19,7 @@ sites:
     check: status-code
 
 status-website:
-  theme: light
+  theme: dark
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
