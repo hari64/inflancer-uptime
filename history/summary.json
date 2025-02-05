@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 368,
-    "timeDay": 368,
-    "timeWeek": 368,
-    "timeMonth": 368,
-    "timeYear": 368,
+    "time": 356,
+    "timeDay": 356,
+    "timeWeek": 356,
+    "timeMonth": 356,
+    "timeYear": 356,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1939,
-    "timeDay": 1939,
-    "timeWeek": 1939,
-    "timeMonth": 1939,
-    "timeYear": 1939,
+    "time": 1811,
+    "timeDay": 1811,
+    "timeWeek": 1811,
+    "timeMonth": 1811,
+    "timeYear": 1811,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/nayahardware.com.ico",
     "slug": "nayahardware",
     "status": "down",
-    "uptime": "96.25%",
-    "uptimeDay": "96.25%",
-    "uptimeWeek": "96.25%",
-    "uptimeMonth": "96.25%",
-    "uptimeYear": "96.25%",
-    "time": 1577,
-    "timeDay": 1577,
-    "timeWeek": 1577,
-    "timeMonth": 1577,
-    "timeYear": 1577,
+    "uptime": "49.01%",
+    "uptimeDay": "49.01%",
+    "uptimeWeek": "49.01%",
+    "uptimeMonth": "49.01%",
+    "uptimeYear": "49.01%",
+    "time": 1309,
+    "timeDay": 1309,
+    "timeWeek": 1309,
+    "timeMonth": 1309,
+    "timeYear": 1309,
     "dailyMinutesDown": {
-      "2025-02-05": 0
+      "2025-02-05": 5
     }
   }
 ]
