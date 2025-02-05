@@ -6,6 +6,11 @@ sites:
   - name: Meroaspatal
     url: https://meroaspatal.com
     check: status-code
+  - name: Meroaspatal API endpoint
+    url: https://meroaspatal.com/api
+    headers:
+      - "Api-Key:lDMdVcSSqH1eDVSayUnTBr8dluEkJ2Kpzq2YLO"
+      - "Content-Type: application/json"
   - name: Surugara
     url: https://beta.surugara.com/api
     check: status-code
