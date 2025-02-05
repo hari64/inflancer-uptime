@@ -17,6 +17,9 @@ sites:
   - name: Nayahardware
     url: https://nayahardware.com/
     check: status-code
+  - name: TournaOP
+    url: https://tournaop.com/
+    check: status-code
 
 status-website:
   theme: dark
