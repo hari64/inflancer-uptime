@@ -4,7 +4,7 @@ repo: inflancer-uptime # The name of this repository
 
 sites:
   - name: Meroaspatal
-    url: https://meroaspatal.com
+    url: https://meroaspatal.com/
     check: status-code
   - name: Meroaspatal API endpoint
     url: https://meroaspatal.com/api/
@@ -12,10 +12,10 @@ sites:
       - "Api-Key: lDMdVcSSqH1eDVSayUnTBr8dluEkJ2Kpzq2YLO"
       - "Content-Type: application/json"
   - name: Surugara
-    url: https://beta.surugara.com/api
+    url: https://beta.surugara.com/api/
     check: status-code
   - name: Nayahardware
-    url: https://nayahardware.com
+    url: https://nayahardware.com/
     check: status-code
 
 status-website:
