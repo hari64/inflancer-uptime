@@ -9,6 +9,9 @@ sites:
   - name: Surugara
     url: https://beta.surugara.com/api
     check: status-code
+  - name: Nayahardware
+    url: https://nayahardware.com
+    check: status-code
 
 status-website:
   theme: light
