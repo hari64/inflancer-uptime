@@ -7,7 +7,7 @@ sites:
     url: https://meroaspatal.com/
     check: status-code
   - name: Surugara
-    url: https://beta.surugara.com/api/
+    url: https://beta.surugara.com/ 
     check: status-code
   - name: Nayahardware
     url: https://nayahardware.com/
