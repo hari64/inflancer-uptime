@@ -7,7 +7,7 @@ sites:
     url: https://meroaspatal.com
     check: status-code
   - name: Surugara
-    url: https://beta.surugara.com
+    url: https://beta.surugara.com/api
     check: status-code
   # - name: Google
   #   url: https://www.google.com
@@ -24,9 +24,10 @@ sites:
   #   ipv6: true
 
 status-website:
+  theme: light
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  #cname: demo.upptime.js.org
+  # cname: demo.upptime.js.org
   baseUrl: /inflancer-uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Inflancer Uptime
