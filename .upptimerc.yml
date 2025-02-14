@@ -40,7 +40,7 @@ sites:
   #   url: https://surakshasystems.com/
   #   check: status-code 
   - name: Khana247
-    url: https://admin.khana247.com/
+    url: https://admin.khana247.com/admin/auth/login
     check: status-code 
   - name: Thyakkai
     url: https://thyakkai.com/
@@ -52,7 +52,7 @@ sites:
     url: https://admin.ohmnom.com/
     check: status-code 
   - name: Machamasu
-    url: https://machamasu.dhanapati.com/
+    url: https://machamasu.dhanapati.com/admin
     check: status-code 
   - name: Lagaani Store
     url: https://beta.lagaanistore.com/
@@ -75,9 +75,9 @@ sites:
   - name: Share a Book Nepal  
     url: https://admin.shareabooknepal.com/
     check: status-code 
-  - name: Bhansa
-    url: https://admin.bhansa.com/
-    check: status-code 
+  # - name: Bhansa
+  #   url: https://admin.bhansa.com/
+  #   check: status-code 
   - name: Mart
     url: https://mart.inflancer.tech/
     check: status-code 
