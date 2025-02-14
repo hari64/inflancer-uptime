@@ -158,19 +158,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/admin.khana247.com.ico",
     "slug": "khana247",
     "status": "up",
-    "uptime": "6.42%",
-    "uptimeDay": "6.42%",
-    "uptimeWeek": "6.42%",
-    "uptimeMonth": "6.42%",
-    "uptimeYear": "6.42%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1053,
     "timeDay": 1053,
     "timeWeek": 1053,
     "timeMonth": 1053,
     "timeYear": 1053,
-    "dailyMinutesDown": {
-      "2025-02-14": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Thyakkai",
@@ -232,19 +230,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/machamasu.dhanapati.com.ico",
     "slug": "machamasu",
     "status": "up",
-    "uptime": "4.45%",
-    "uptimeDay": "4.45%",
-    "uptimeWeek": "4.45%",
-    "uptimeMonth": "4.45%",
-    "uptimeYear": "4.45%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 884,
     "timeDay": 884,
     "timeWeek": 884,
     "timeMonth": 884,
     "timeYear": 884,
-    "dailyMinutesDown": {
-      "2025-02-14": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Lagaani Store",
