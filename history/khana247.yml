@@ -1,7 +1,7 @@
-url: https://admin.khana247.com/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-02-14T05:11:43.749Z
+url: https://admin.khana247.com/admin/auth/login
+status: up
+code: 200
+responseTime: 1053
+lastUpdated: 2025-02-14T05:18:38.113Z
 startTime: 2025-02-14T05:11:40.620Z
 generator: Upptime <https://github.com/upptime/upptime>
