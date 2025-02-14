@@ -18,6 +18,75 @@ sites:
   - name: Juttastudio
     url: https://juttastudio.com/
     check: status-code
+  - name: Ekjhola
+    url: https://ekjhola.com/
+    check: status-code
+  # - name: Allonepal
+  #   url: https://allonepal.com/
+  #   check: status-code 
+  - name: Khudra Store
+    url: https://khudrastore.com/
+    check: status-code 
+  # - name: Nepal Blades
+  #   url: https://nepalblades.com/
+  #   check: status-code 
+  # - name: Sarki Dai
+  #   url: https://sarkidai.com/
+  #   check: status-code 
+  - name: The Job Room
+    url: https://thejobroom.com/
+    check: status-code 
+  # - name: Suraksha Systems  
+  #   url: https://surakshasystems.com/
+  #   check: status-code 
+  - name: Khana247
+    url: https://admin.khana247.com/
+    check: status-code 
+  - name: Thyakkai
+    url: https://thyakkai.com/
+    check: status-code 
+  - name: Bechideu
+    url: https://bechideu.com/
+    check: status-code 
+  - name: Ohmnom
+    url: https://admin.ohmnom.com/
+    check: status-code 
+  - name: Machamasu
+    url: https://machamasu.dhanapati.com/
+    check: status-code 
+  - name: Lagaani Store
+    url: https://beta.lagaanistore.com/
+    check: status-code 
+  - name: Surugara
+    url: https://beta.surugara.com/
+    check: status-code 
+  - name: Dhanapati
+    url: https://dhanapati.com/
+    check: status-code 
+  - name: Upit Studio
+    url: https://upit.dhanapati.com/
+    check: status-code 
+  - name: Sodhpuch
+    url: https://beta.sodhpuch.com/
+    check: status-code 
+  - name: Mero Degree
+    url: https://merodegree.dhanapati.com/
+    check: status-code 
+  - name: Share a Book Nepal  
+    url: https://admin.shareabooknepal.com/
+    check: status-code 
+  - name: Bhansa
+    url: https://admin.bhansa.com/
+    check: status-code 
+  - name: Mart
+    url: https://mart.inflancer.tech/
+    check: status-code 
+  - name: Phisss
+    url: https://admin.phisss.com/
+    check: status-code 
+  - name: Rentgara  
+    url: https://rentgara.dhanapati.com/
+    check: status-code 
 
 status-website:
   theme: dark
