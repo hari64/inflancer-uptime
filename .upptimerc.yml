@@ -6,6 +6,9 @@ sites:
   - name: Meroaspatal
     url: https://meroaspatal.com/
     check: status-code
+  - name: Meroaspatal API
+    url: https://meroaspatal.com/api/health/
+    check: status-code
   - name: Surugara
     url: https://beta.surugara.com/ 
     check: status-code
