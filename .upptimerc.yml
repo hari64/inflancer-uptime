@@ -76,7 +76,7 @@ sites:
     url: https://merodegree.dhanapati.com/
     check: status-code 
   - name: Share a Book Nepal  
-    url: https://admin.shareabooknepal.com/
+    url: https://shareabooknepal.com/
     check: status-code 
   # - name: Bhansa
   #   url: https://admin.bhansa.com/
