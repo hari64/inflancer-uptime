@@ -73,7 +73,7 @@ sites:
     url: https://beta.sodhpuch.com/
     check: status-code 
   - name: Mero Degree
-    url: https://merodegree.dhanapati.com/
+    url: https://merodegree.com/
     check: status-code 
   - name: Share a Book Nepal  
     url: https://shareabooknepal.com/
