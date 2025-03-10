@@ -79,7 +79,7 @@ sites:
     url: https://shareabooknepal.com/
     check: status-code 
   - name: Bhansa
-    url: https://bhansa.com/
+    url: https://bhaansa.com/
     check: status-code 
   - name: Mart
     url: https://mart.inflancer.tech/
