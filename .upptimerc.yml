@@ -60,9 +60,9 @@ sites:
   - name: Lagaani Store
     url: https://beta.lagaanistore.com/
     check: status-code 
-  - name: Surugara
-    url: https://beta.surugara.com/
-    check: status-code 
+  # - name: Surugara
+  #   url: https://beta.surugara.com/
+  #   check: status-code 
   - name: Dhanapati
     url: https://dhanapati.com/
     check: status-code 
