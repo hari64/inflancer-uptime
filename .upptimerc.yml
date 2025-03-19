@@ -10,7 +10,7 @@ sites:
     url: https://meroaspatal.com/api/health/
     check: status-code
   - name: Surugara
-    url: https://beta.surugara.com/ 
+    url: https://admin.surugara.com/ 
     check: status-code
   - name: Nayahardware
     url: https://nayahardware.com/
