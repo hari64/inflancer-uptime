@@ -19,7 +19,7 @@ sites:
     url: https://tournaop.com/
     check: status-code
   - name: Juttastudio
-    url: https://juttastudio.com/
+    url: https://admin.juttastudio.com/
     check: status-code
   - name: Ekjhola
     url: https://ekjhola.com/
