@@ -90,6 +90,12 @@ sites:
   - name: Rentgara  
     url: https://rentgara.dhanapati.com/
     check: status-code 
+  - name: Prabhusteels
+    url: https://beta.prabhusteel.com/
+    check: status-code
+  - name: Prabhu Cable Car
+    url: https://beta.prabhucablecar.com/
+    check: status-code
 
     
 status-website:
