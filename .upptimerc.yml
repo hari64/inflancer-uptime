@@ -58,7 +58,7 @@ sites:
     url: https://machamasu.dhanapati.com/admin
     check: status-code 
   - name: Lagaani Store
-    url: https://beta.lagaanistore.com/
+    url: https://admin.lagaanistore.com/
     check: status-code 
   # - name: Surugara
   #   url: https://beta.surugara.com/
