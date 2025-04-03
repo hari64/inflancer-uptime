@@ -81,9 +81,9 @@ sites:
   - name: Bhansa
     url: https://bhaansa.com/
     check: status-code 
-  - name: Mart
-    url: https://mart.inflancer.tech/
-    check: status-code 
+  # - name: Mart
+  #   url: https://mart.inflancer.tech/
+  #   check: status-code 
   - name: Phisss
     url: https://admin.phisss.com/
     check: status-code 
