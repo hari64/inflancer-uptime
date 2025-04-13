@@ -48,7 +48,7 @@ sites:
   - name: Khana247-Admin
     url: https://admin.khana247.com/admin/auth/login
     check: status-code 
-  name: Khana247
+  - name: Khana247
     url: https://khana247.com
     check: status-code
   - name: Thyakkai
