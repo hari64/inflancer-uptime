@@ -18,8 +18,11 @@ sites:
   - name: TournaOP
     url: https://tournaop.com/
     check: status-code
-  - name: Juttastudio
+  - name: Juttastudio-Admin
     url: https://admin.juttastudio.com/
+    check: status-code
+  - name: Juttastudio
+    url: https://juttastudio.com/
     check: status-code
   - name: Ekjhola
     url: https://ekjhola.com/
@@ -42,9 +45,12 @@ sites:
   # - name: Suraksha Systems  
   #   url: https://surakshasystems.com/
   #   check: status-code 
-  - name: Khana247
+  - name: Khana247-Admin
     url: https://admin.khana247.com/admin/auth/login
     check: status-code 
+  name: Khana247
+    url: https://khana247.com
+    check: status-code
   - name: Thyakkai
     url: https://thyakkai.com/
     check: status-code 
@@ -60,9 +66,9 @@ sites:
   - name: Lagaani Store
     url: https://admin.lagaanistore.com/
     check: status-code 
-  # - name: Surugara
-  #   url: https://beta.surugara.com/
-  #   check: status-code 
+  - name: Surugara
+    url: https://admin.surugara.com/
+    check: status-code 
   - name: Dhanapati
     url: https://dhanapati.com/
     check: status-code 
@@ -81,9 +87,12 @@ sites:
   - name: Bhansa
     url: https://bhaansa.com/
     check: status-code 
-  # - name: Mart
-  #   url: https://mart.inflancer.tech/
-  #   check: status-code 
+  - name: imart
+    url: https://imart.inflancer.com/
+    check: status-code 
+  name: Khana247
+    url: https://imart-admin.inflancer.com/
+    check: status-code
   - name: Phisss
     url: https://admin.phisss.com/
     check: status-code 
@@ -96,6 +105,23 @@ sites:
   - name: Prabhu Cable Car
     url: https://beta.prabhucablecar.com/
     check: status-code
+  - name: Specsy-Admin
+    url: https://admin.specsy.app/
+    check: status-code
+  - name: Specsy-Api
+    url: https://api.specsy.app/
+    check: status-code
+  - name: Pre-school Krishna Sah
+    url: https://preschool.krishna-sah.com.np/
+    check: status-code
+  - name: Inflancer-beta
+    url: https://beta.inflancer.com/
+    check: status-code
+  - name: Merobazar-Admin
+    url: https://madmin.inflancer.tech/
+    check: status-code
+  
+  
 
     
 status-website:
