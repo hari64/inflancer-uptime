@@ -90,7 +90,7 @@ sites:
   - name: imart
     url: https://imart.inflancer.com/
     check: status-code 
-  name: Khana247
+  - name: Khana247
     url: https://imart-admin.inflancer.com/
     check: status-code
   - name: Phisss
