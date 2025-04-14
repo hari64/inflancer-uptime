@@ -688,18 +688,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/madmin.inflancer.tech.ico",
     "slug": "merobazar-admin",
     "status": "down",
-    "uptime": "2.12%",
-    "uptimeDay": "2.12%",
-    "uptimeWeek": "2.12%",
-    "uptimeMonth": "2.12%",
-    "uptimeYear": "2.12%",
+    "uptime": "1.66%",
+    "uptimeDay": "1.66%",
+    "uptimeWeek": "1.66%",
+    "uptimeMonth": "1.66%",
+    "uptimeYear": "1.66%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-14": 0
+      "2025-04-14": 1
     }
   }
 ]
