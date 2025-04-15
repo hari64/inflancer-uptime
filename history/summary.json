@@ -297,18 +297,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/admin.ohmnom.com.ico",
     "slug": "ohmnom",
     "status": "down",
-    "uptime": "99.64%",
-    "uptimeDay": "80.10%",
-    "uptimeWeek": "97.16%",
-    "uptimeMonth": "99.35%",
-    "uptimeYear": "99.64%",
+    "uptime": "99.62%",
+    "uptimeDay": "78.74%",
+    "uptimeWeek": "96.96%",
+    "uptimeMonth": "99.30%",
+    "uptimeYear": "99.62%",
     "time": 907,
     "timeDay": 1477,
     "timeWeek": 1174,
     "timeMonth": 990,
     "timeYear": 907,
     "dailyMinutesDown": {
-      "2025-04-15": 287,
+      "2025-04-15": 306,
       "2025-03-09": 24
     }
   },
@@ -634,19 +634,19 @@
     "url": "https://api.specsy.app/",
     "icon": "https://icons.duckduckgo.com/ip3/api.specsy.app.ico",
     "slug": "specsy-api",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 708,
-    "timeDay": 708,
-    "timeWeek": 708,
-    "timeMonth": 708,
-    "timeYear": 708,
+    "status": "up",
+    "uptime": "98.53%",
+    "uptimeDay": "98.53%",
+    "uptimeWeek": "98.53%",
+    "uptimeMonth": "98.53%",
+    "uptimeYear": "98.53%",
+    "time": 668,
+    "timeDay": 668,
+    "timeWeek": 668,
+    "timeMonth": 668,
+    "timeYear": 668,
     "dailyMinutesDown": {
-      "2025-04-15": 0
+      "2025-04-15": 19
     }
   },
   {
@@ -702,7 +702,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-15": 624,
+      "2025-04-15": 644,
       "2025-04-14": 680
     }
   }
