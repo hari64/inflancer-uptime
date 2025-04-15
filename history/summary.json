@@ -156,19 +156,19 @@
     "url": "https://ekjhola.com/",
     "icon": "https://icons.duckduckgo.com/ip3/ekjhola.com.ico",
     "slug": "ekjhola",
-    "status": "down",
+    "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.49%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.48%",
     "uptimeYear": "99.72%",
-    "time": 1453,
-    "timeDay": 1261,
-    "timeWeek": 1387,
-    "timeMonth": 1413,
-    "timeYear": 1453,
+    "time": 1467,
+    "timeDay": 1916,
+    "timeWeek": 1518,
+    "timeMonth": 1440,
+    "timeYear": 1467,
     "dailyMinutesDown": {
-      "2025-04-15": 5,
+      "2025-04-15": 6,
       "2025-03-23": 56,
       "2025-03-21": 51,
       "2025-03-18": 113,
@@ -299,8 +299,8 @@
     "slug": "ohmnom",
     "status": "down",
     "uptime": "99.33%",
-    "uptimeDay": "61.16%",
-    "uptimeWeek": "94.45%",
+    "uptimeDay": "61.03%",
+    "uptimeWeek": "94.43%",
     "uptimeMonth": "98.72%",
     "uptimeYear": "99.33%",
     "time": 907,
@@ -309,7 +309,7 @@
     "timeMonth": 990,
     "timeYear": 907,
     "dailyMinutesDown": {
-      "2025-04-15": 559,
+      "2025-04-15": 561,
       "2025-03-09": 24
     }
   },
@@ -703,7 +703,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-15": 897,
+      "2025-04-15": 899,
       "2025-04-14": 680
     }
   }
