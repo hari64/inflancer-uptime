@@ -12,9 +12,9 @@ sites:
   - name: Surugara
     url: https://admin.surugara.com/ 
     check: status-code
-  - name: Nayahardware
-    url: https://nayahardware.com/
-    check: status-code
+  # - name: Nayahardware
+  #   url: https://nayahardware.com/
+  #   check: status-code
   - name: TournaOP
     url: https://tournaop.com/
     check: status-code
@@ -108,9 +108,9 @@ sites:
   - name: Specsy-Admin
     url: https://admin.specsy.app/
     check: status-code
-  - name: Specsy-Api
-    url: https://api.specsy.app/
-    check: status-code
+  # - name: Specsy-Api
+  #   url: https://api.specsy.app/
+  #   check: status-code
   - name: Pre-school Krishna Sah
     url: https://preschool.krishna-sah.com.np/
     check: status-code
