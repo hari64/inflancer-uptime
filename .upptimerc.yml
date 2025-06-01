@@ -100,7 +100,7 @@ sites:
     url: https://rentgara.dhanapati.com/
     check: status-code 
   - name: Prabhusteels
-    url: https://beta.prabhusteel.com/
+    url: https://prabhusteel.com/
     check: status-code
   - name: Prabhu Cable Car
     url: https://beta.prabhucablecar.com/
