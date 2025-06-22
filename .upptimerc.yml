@@ -3,124 +3,173 @@ owner: hari64 # Your GitHub organization or username, where this repository live
 repo: inflancer-uptime # The name of this repository
 
 sites:
-  # - name: Meroaspatal
-  #   url: https://meroaspatal.com/
-  #   check: status-code
-  # - name: Meroaspatal API
-  #   url: https://meroaspatal.com/api/health/
-  #   check: status-code
   - name: Surugara
     url: https://admin.surugara.com/ 
     check: status-code
-  # - name: Nayahardware
-  #   url: https://nayahardware.com/
-  #   check: status-code
+  
   - name: TournaOP
     url: https://tournaop.com/
     check: status-code
+    
   - name: Juttastudio-Admin
     url: https://admin.juttastudio.com/
     check: status-code
+    
   - name: Juttastudio
     url: https://juttastudio.com/
     check: status-code
+  - name: Juttastudio Admin
+    url: https://admin.juttastudio.com/
+    check: status-code
+    
   - name: Ekjhola
     url: https://ekjhola.com/
     check: status-code
-  # - name: Allonepal
-  #   url: https://allonepal.com/
-  #   check: status-code 
-  # - name: Khudra Store
-  #   url: https://khudrastore.com/
-  #   check: status-code 
-  # - name: Nepal Blades
-  #   url: https://nepalblades.com/
-  #   check: status-code 
-  # - name: Sarki Dai
-  #   url: https://sarkidai.com/
-  #   check: status-code 
+   
   - name: The Job Room
     url: https://thejobroom.com/
     check: status-code 
-  # - name: Suraksha Systems  
-  #   url: https://surakshasystems.com/
-  #   check: status-code 
+    
+  
   - name: Khana247-Admin
     url: https://admin.khana247.com/admin/auth/login
     check: status-code 
   - name: Khana247
     url: https://khana247.com
     check: status-code
+    
   - name: Thyakkai
     url: https://thyakkai.com/
     check: status-code 
+    
   - name: Bechideu
     url: https://bechideu.com/
-    check: status-code 
+    check: status-code
+  - name: Bechideu Blog
+    url: https://blogs.bechideu.com/
+    check: status-code
+    
   - name: Ohmnom
-    url: https://beta.ohmnom.com/
+    url: https://ohmnom.com/
     check: status-code 
+    
   - name: Machamasu
     url: https://machamasu.dhanapati.com/admin
     check: status-code 
+    
   - name: Lagaani Store
     url: https://admin.lagaanistore.com/
     check: status-code 
+    
   - name: Surugara
     url: https://admin.surugara.com/
     check: status-code 
+    
   - name: Dhanapati
     url: https://dhanapati.com/
     check: status-code 
+    
   - name: Upit Studio
     url: https://upit.dhanapati.com/
     check: status-code 
+    
   - name: Sodhpuch
     url: https://beta.sodhpuch.com/
     check: status-code 
+    
   - name: Mero Degree
     url: https://merodegree.com/
     check: status-code 
+    
   - name: Share a Book Nepal  
     url: https://shareabooknepal.com/
     check: status-code 
+    
   - name: Bhansa
     url: https://bhaansa.com/
     check: status-code 
+  - name: Bhansa Admin
+    url: https://admin.bhaansa.com/
+    check: status-code
+
+  - name: Gharsuvida Admin
+    url: https://admin.gharsuvida.com/
+    check: status-code
+  - name: Gharsuvida
+    url: https://admin.gharsuvida.com/
+    check: status-code
+  
+  - name: Bhansa Admin
+    url: https://admin.bhaansa.com/
+    check: status-code
+    
   - name: imart
     url: https://imart.inflancer.com/
     check: status-code 
-  - name: Khana247
+    
+  - name: Imart Admin
     url: https://imart-admin.inflancer.com/
     check: status-code
+    
   - name: Phisss
     url: https://admin.phisss.com/
     check: status-code 
+    
   - name: Rentgara  
     url: https://rentgara.dhanapati.com/
     check: status-code 
-  - name: Prabhusteels
+    
+  - name: Prabhusteel
     url: https://prabhusteel.com/
     check: status-code
-  - name: Prabhu Cable Car
-    url: https://prabhucablecar.com/
+
+  - name: Holdings Hydro
+    url: https://holdingshydro.com/
     check: status-code
+
+  - name: Prabhu Cable Car Admin
+    url: https://admin.bhaansa.com/
+    check: status-code
+
+  - name: Prabhu Holdings
+    url: https://holdingsprabhu.com/
+    check: status-code
+    
   - name: Specsy-Admin
     url: https://admin.specsy.app/
     check: status-code
+    
   # - name: Specsy-Api
   #   url: https://api.specsy.app/
   #   check: status-code
+  
   - name: Pre-school Krishna Sah
     url: https://preschool.krishna-sah.com.np/
     check: status-code
-  - name: Inflancer-beta
+    
+  - name: Inflancer
     url: https://inflancer.com/
     check: status-code
+    
   # - name: Merobazar-Admin
   #   url: https://madmin.inflancer.tech/
   #   check: status-code
-  
+
+  - name: Mapasey Admin
+    url: https://admin.mapasey.com/
+    check: status-code
+  - name: Mapasey
+    url: https://mapasey.com/
+    check: status-code
+
+  - name: Aesthetix
+    url: https://aesthetix.inflancer.com/
+    check: status-code
+
+  - name: Inflancer App
+    url: https://app.inflnacer.com/
+    check: status-code
+
   
 
     
