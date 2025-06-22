@@ -103,7 +103,7 @@ sites:
     url: https://prabhusteel.com/
     check: status-code
   - name: Prabhu Cable Car
-    url: https://beta.prabhucablecar.com/
+    url: https://prabhucablecar.com/
     check: status-code
   - name: Specsy-Admin
     url: https://admin.specsy.app/
