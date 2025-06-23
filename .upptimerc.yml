@@ -167,7 +167,7 @@ sites:
     check: status-code
 
   - name: Inflancer App
-    url: https://app.inflnacer.com/
+    url: https://app.inflancer.com/
     check: status-code
 
   
