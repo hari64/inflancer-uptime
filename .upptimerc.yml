@@ -170,6 +170,9 @@ sites:
     url: https://app.inflancer.com/
     check: status-code
 
+  - name: Supchar
+    url: https://supchar.com/
+    check: status-code
   
 
     
