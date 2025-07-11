@@ -103,13 +103,13 @@ sites:
     url: https://admin.bhaansa.com/
     check: status-code
     
-  - name: imart
-    url: https://imart.inflancer.com/
-    check: status-code 
+  # - name: imart
+  #   url: https://imart.inflancer.com/
+  #   check: status-code 
     
-  - name: Imart Admin
-    url: https://imart-admin.inflancer.com/
-    check: status-code
+  # - name: Imart Admin
+  #   url: https://imart-admin.inflancer.com/
+  #   check: status-code
     
   - name: Phisss
     url: https://admin.phisss.com/
@@ -162,9 +162,9 @@ sites:
     url: https://mapasey.com/
     check: status-code
 
-  - name: Aesthetix
-    url: https://aesthetix.inflancer.com/
-    check: status-code
+  # - name: Aesthetix
+  #   url: https://aesthetix.inflancer.com/
+  #   check: status-code
 
   - name: Inflancer App
     url: https://app.inflancer.com/
