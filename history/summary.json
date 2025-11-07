@@ -4,17 +4,19 @@
     "url": "https://harichaudhary.info.np/",
     "icon": "https://icons.duckduckgo.com/ip3/harichaudhary.info.np.ico",
     "slug": "hari-chaudhary",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1209,
-    "timeDay": 1373,
-    "timeWeek": 1209,
-    "timeMonth": 1209,
-    "timeYear": 1209,
-    "dailyMinutesDown": {}
+    "time": 5870,
+    "timeDay": 10613,
+    "timeWeek": 5870,
+    "timeMonth": 5870,
+    "timeYear": 5870,
+    "dailyMinutesDown": {
+      "2025-11-07": 0
+    }
   }
 ]
