@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/harichaudhary.info.np.ico",
     "slug": "hari-chaudhary",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3814,
-    "timeDay": 918,
-    "timeWeek": 3814,
-    "timeMonth": 3814,
-    "timeYear": 3814,
+    "uptime": "96.07%",
+    "uptimeDay": "73.96%",
+    "uptimeWeek": "96.07%",
+    "uptimeMonth": "96.07%",
+    "uptimeYear": "96.07%",
+    "time": 3722,
+    "timeDay": 1912,
+    "timeWeek": 3722,
+    "timeMonth": 3722,
+    "timeYear": 3722,
     "dailyMinutesDown": {
-      "2025-11-11": 0
+      "2025-11-12": 100,
+      "2025-11-11": 275
     }
   }
 ]
